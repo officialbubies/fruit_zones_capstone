@@ -1,0 +1,1296 @@
+,fruit_name,zone,type
+0,Almata,3,Apple
+1,Antonovka (Common),3,Apple
+2,Black Oxford,3,Apple
+3,Blue Pearmain,3,Apple
+4,Centennial Crab,3,Apple
+5,Chestnut Crab,3,Apple
+6,Dolgo Crab,3,Apple
+7,Duchess of Oldenburg,3,Apple
+8,Fameuse ,3,Apple
+9,Franklin ,3,Apple
+10,Frostbite™,3,Apple
+11,Haralson,3,Apple
+12,Honeycrisp,3,Apple
+13,Hudson's Golden Gem,3,Apple
+14,Idared,3,Apple
+15,Kerr,3,Apple
+16,Macoun,3,Apple
+17,Northland Crab,3,Apple
+18,Northwest Greening,3,Apple
+19,Prairie Spy,3,Apple
+20,Redfield,3,Apple
+21,Spartan,3,Apple
+22,Sweet Sixteen,3,Apple
+23,Toringo Crabapple,3,Apple
+24,Transcendent Crab,3,Apple
+25,Virginia Crab,3,Apple
+26,Wickson Crab,3,Apple
+27,Wolf River,3,Apple
+28,Yellow Transparent,3,Apple
+0,Veteran,3,Peach
+0,Bubblegum,3,Plum
+0,Flemish Beauty,3,Pear
+1,Harrow Delight,3,Pear
+2,Summercrisp,3,Pear
+0,Meteor,3,Cherry
+0,Akane,4,Apple
+1,Almata,4,Apple
+2,Ambrosia,4,Apple
+3,Amere de Berthencourt,4,Apple
+4,Antonovka (Common),4,Apple
+5,Ashmead's Kernel,4,Apple
+6,Black Oxford,4,Apple
+7,Blondee™,4,Apple
+8,Blue Pearmain,4,Apple
+9,Bramley's Seedling,4,Apple
+10,Brown Snout,4,Apple
+11,Brown's Apple,4,Apple
+12,Bulmer's Norman,4,Apple
+13,Burgundy,4,Apple
+14,Calville Blanc,4,Apple
+15,Campfield,4,Apple
+16,Centennial Crab,4,Apple
+17,Chenango Strawberry,4,Apple
+18,Chestnut Crab,4,Apple
+19,Chieftain,4,Apple
+20,Chisel Jersey,4,Apple
+21,Claygate Pearmain,4,Apple
+22,Coat Jersey,4,Apple
+23,Cortland ,4,Apple
+24,Court Pendu Plat,4,Apple
+25,Dolgo Crab,4,Apple
+26,Duchess of Oldenburg,4,Apple
+27,Egremont Russet,4,Apple
+28,Ellis Bitter,4,Apple
+29,Empire,4,Apple
+30,Enterprise,4,Apple
+31,Erwin Bauer,4,Apple
+32,Fameuse ,4,Apple
+33,Franklin ,4,Apple
+34,Freedom,4,Apple
+35,Frostbite™,4,Apple
+36,Galarina™ X-4982 CV.,4,Apple
+37,Geneva Crab,4,Apple
+38,Gilpin,4,Apple
+39,Golden Hornet,4,Apple
+40,Golden Russet,4,Apple
+41,Haralson,4,Apple
+42,Honeycrisp,4,Apple
+43,Hubbardston Nonsuch,4,Apple
+44,Hudson's Golden Gem,4,Apple
+45,Idared,4,Apple
+46,Initial,4,Apple
+47,Jim Double Pink,4,Apple
+48,Keepsake,4,Apple
+49,Kermerrien,4,Apple
+50,Kerr,4,Apple
+51,King David,4,Apple
+52,King of Tompkins County,4,Apple
+53,Lady,4,Apple
+54,Liberty,4,Apple
+55,Macoun,4,Apple
+56,Major,4,Apple
+57,McIntosh,4,Apple
+58,Melrose,4,Apple
+59,MN1980,4,Apple
+60,Murray,4,Apple
+61,Muscadet de Dieppe,4,Apple
+62,Mutsu,4,Apple
+63,Newtown Pippin,4,Apple
+64,Northern Spy,4,Apple
+65,Northland Crab,4,Apple
+66,Northwest Greening,4,Apple
+67,Nova Spy,4,Apple
+68,NY 35,4,Apple
+69,NY 414-1,4,Apple
+70,Opalescent,4,Apple
+71,Pepin Shafrannyi,4,Apple
+72,Pink Pearl,4,Apple
+73,Pixie Crunch®,4,Apple
+74,Prairie Spy,4,Apple
+75,Puget Spice,4,Apple
+76,Redfield,4,Apple
+77,Redfree,4,Apple
+78,Reinette Zabergau,4,Apple
+79,Ribston Pippin,4,Apple
+80,Roxbury Russet,4,Apple
+81,Rubinette,4,Apple
+82,Sansa,4,Apple
+83,Shizuka,4,Apple
+84,Slavyanka,4,Apple
+85,Smokehouse,4,Apple
+86,SnowSweet®,4,Apple
+87,Somerset Redstreak,4,Apple
+88,Spartan,4,Apple
+89,Spigold,4,Apple
+90,Spitzenburg Esopus ,4,Apple
+91,Stembridge Cluster,4,Apple
+92,Summer Rambo,4,Apple
+93,Surprise,4,Apple
+94,Sweet Sixteen,4,Apple
+95,Toringo Crabapple,4,Apple
+96,Transcendent Crab,4,Apple
+97,Virginia Crab,4,Apple
+98,Wagener,4,Apple
+99,Wealthy,4,Apple
+100,Wickson Crab,4,Apple
+101,Williams' Pride,4,Apple
+102,Winecrisp™,4,Apple
+103,Winter Banana,4,Apple
+104,Wolf River,4,Apple
+105,Yarlington Mill,4,Apple
+106,Yellow Transparent,4,Apple
+107,Zestar!®,4,Apple
+0,Carolina Gold,4,Peach
+1,China Pearl,4,Peach
+2,Contender ,4,Peach
+3,Intrepid,4,Peach
+4,PF 24-C Cold Hardy,4,Peach
+5,Redhaven ,4,Peach
+6,Reliance ,4,Peach
+7,Veteran,4,Peach
+0,Bubblegum,4,Plum
+1,Castleton,4,Plum
+2,Damson,4,Plum
+3,Lavina ,4,Plum
+4,Methley,4,Plum
+0,AC™ Harrow Crisp,4,Pear
+1,Aurora,4,Pear
+2,Bartlett,4,Pear
+3,Brandy,4,Pear
+4,Butt,4,Pear
+5,Flemish Beauty,4,Pear
+6,Gelbmostler,4,Pear
+7,Gem,4,Pear
+8,Harrow Delight,4,Pear
+9,Harvest Queen,4,Pear
+10,Juicy Jewel™,4,Pear
+11,Kalle,4,Pear
+12,Olympic,4,Pear
+13,Summercrisp,4,Pear
+0,BlackGold®,4,Cherry
+1,Kristin,4,Cherry
+2,Meteor,4,Cherry
+3,Montmorency,4,Cherry
+4,Surefire™,4,Cherry
+5,WhiteGold®,4,Cherry
+0,AC™ Haroblush,4,Apricot
+1,Harlayne,4,Apricot
+2,Harogem,4,Apricot
+3,HW 460,4,Apricot
+4,Sugar Pearls™,4,Apricot
+0,Akane,5,Apple
+1,Alkmene,5,Apple
+2,Almata,5,Apple
+3,Ambrosia,5,Apple
+4,Amere de Berthencourt,5,Apple
+5,Antonovka (Common),5,Apple
+6,Arkansas Black,5,Apple
+7,Ashmead's Kernel,5,Apple
+8,Baldwin,5,Apple
+9,Bedan,5,Apple
+10,Belle Fille,5,Apple
+11,Binet Rouge,5,Apple
+12,Black Oxford,5,Apple
+13,Blanquina,5,Apple
+14,Blondee™,5,Apple
+15,Blue Pearmain,5,Apple
+16,Bramley's Seedling,5,Apple
+17,Bramtot,5,Apple
+18,Brown Snout,5,Apple
+19,Brown's Apple,5,Apple
+20,Bulmer's Norman,5,Apple
+21,Burgundy,5,Apple
+22,Calville Blanc,5,Apple
+23,Campfield,5,Apple
+24,Centennial Crab,5,Apple
+25,Chenango Strawberry,5,Apple
+26,Chestnut Crab,5,Apple
+27,Chieftain,5,Apple
+28,Chisel Jersey,5,Apple
+29,Claygate Pearmain,5,Apple
+30,Coat Jersey,5,Apple
+31,Collaos,5,Apple
+32,Coloradona,5,Apple
+33,Cortland ,5,Apple
+34,Court Pendu Plat,5,Apple
+35,Cox's Orange Pippin,5,Apple
+36,CrimsonCrisp™ ,5,Apple
+37,Crimson® Topaz CV.,5,Apple
+38,Cristalina ,5,Apple
+39,Dabinett,5,Apple
+40,Dayton,5,Apple
+41,Dolgo Crab,5,Apple
+42,Domaines,5,Apple
+43,Duchess of Oldenburg,5,Apple
+44,Edelborsdorfer,5,Apple
+45,Egremont Russet,5,Apple
+46,Ellis Bitter,5,Apple
+47,Elstar,5,Apple
+48,Empire,5,Apple
+49,Enterprise,5,Apple
+50,Erwin Bauer,5,Apple
+51,Fameuse ,5,Apple
+52,Florina ,5,Apple
+53,Flower of Kent,5,Apple
+54,Fortune,5,Apple
+55,Franklin ,5,Apple
+56,Freedom,5,Apple
+57,Frequin Rouge,5,Apple
+58,Freyberg,5,Apple
+59,Frostbite™,5,Apple
+60,Fuji,5,Apple
+61,"Fuji, Beni Shogun",5,Apple
+62,Gala,5,Apple
+63,Galarina™ X-4982 CV.,5,Apple
+64,Geneva Crab,5,Apple
+65,Gilpin,5,Apple
+66,Ginger Gold,5,Apple
+67,Golden Hornet,5,Apple
+68,Golden Nugget,5,Apple
+69,Golden Russet,5,Apple
+70,GoldRush,5,Apple
+71,Gravenstein,5,Apple
+72,Grimes Golden,5,Apple
+73,Haralson,5,Apple
+74,Harrison,5,Apple
+75,Harry Masters Jersey,5,Apple
+76,Hawaii,5,Apple
+77,Herefordshire Redstreak,5,Apple
+78,Holstein Pippin,5,Apple
+79,Honeycrisp,5,Apple
+80,Hubbardston Nonsuch,5,Apple
+81,Hudson's Golden Gem,5,Apple
+82,Idared,5,Apple
+83,Initial,5,Apple
+84,Jim Double Pink,5,Apple
+85,Jonagold,5,Apple
+86,Jonalicious,5,Apple
+87,Jonathan,5,Apple
+88,Karmijn de Sonneville,5,Apple
+89,Keepsake,5,Apple
+90,Kermerrien,5,Apple
+91,Kerr,5,Apple
+92,Kidd's Orange Red,5,Apple
+93,King David,5,Apple
+94,King of Tompkins County,5,Apple
+95,Kingston Black,5,Apple
+96,Lady,5,Apple
+97,Laxton's Superb,5,Apple
+98,Liberty,5,Apple
+99,Macoun,5,Apple
+100,Major,5,Apple
+101,Margil,5,Apple
+102,Marialena,5,Apple
+103,McIntosh,5,Apple
+104,Medaille d'Or,5,Apple
+105,Melrose,5,Apple
+106,MN1980,5,Apple
+107,Mollie's Delicious,5,Apple
+108,Mother,5,Apple
+109,Murray,5,Apple
+110,Muscadet de Dieppe,5,Apple
+111,Mutsu,5,Apple
+112,Nehou,5,Apple
+113,Newtown Pippin,5,Apple
+114,Noel de Champs,5,Apple
+115,Northern Spy,5,Apple
+116,Northland Crab,5,Apple
+117,Northwest Greening,5,Apple
+118,Nova Spy,5,Apple
+119,NY 35,5,Apple
+120,NY 414-1,5,Apple
+121,Opalescent,5,Apple
+122,Orleans Reinette,5,Apple
+123,Pepin Shafrannyi,5,Apple
+124,Piel de Sapa,5,Apple
+125,Pine Golden Pippin,5,Apple
+126,Pink Lady® Cripps Pink CV.,5,Apple
+127,Pink Pearl,5,Apple
+128,Pixie Crunch®,5,Apple
+129,Porter's Perfection,5,Apple
+130,Prairie Spy,5,Apple
+131,Pristine,5,Apple
+132,Puget Spice,5,Apple
+133,Raxao,5,Apple
+134,Razor Russet,5,Apple
+135,Redfield,5,Apple
+136,Redfree,5,Apple
+137,Reine des Pommes,5,Apple
+138,Reineta do Caravia,5,Apple
+139,Reinette Clochard,5,Apple
+140,Reinette Zabergau,5,Apple
+141,Repinaldo do Liebana,5,Apple
+142,Rhode Island Greening,5,Apple
+143,Ribston Pippin,5,Apple
+144,Robert's Crab,5,Apple
+145,Roxbury Russet,5,Apple
+146,Rubinette,5,Apple
+147,Saint-Martin,5,Apple
+148,Sangre de Toro,5,Apple
+149,Sansa,5,Apple
+150,Scarlett O'Hara,5,Apple
+151,Shizuka,5,Apple
+152,Sir Prize,5,Apple
+153,Slavyanka,5,Apple
+154,Smokehouse,5,Apple
+155,SnowSweet®,5,Apple
+156,Solarina,5,Apple
+157,Somerset Redstreak,5,Apple
+158,Spartan,5,Apple
+159,Spigold,5,Apple
+160,Spitzenburg Esopus ,5,Apple
+161,Splendour,5,Apple
+162,St. Edmund's Russet,5,Apple
+163,Stembridge Cluster,5,Apple
+164,Stoke Red,5,Apple
+165,Summer Rambo,5,Apple
+166,SunCrisp®,5,Apple
+167,Sundance™,5,Apple
+168,Suntan,5,Apple
+169,Surprise,5,Apple
+170,Sweet Coppin,5,Apple
+171,Sweet Sixteen,5,Apple
+172,Tom Putt,5,Apple
+173,Toringo Crabapple,5,Apple
+174,Transcendent Crab,5,Apple
+175,Tremlett's Bitter,5,Apple
+176,Virginia Crab,5,Apple
+177,Wagener,5,Apple
+178,Wealthy,5,Apple
+179,White Winter Pearmain,5,Apple
+180,Wickson Crab,5,Apple
+181,Williams' Pride,5,Apple
+182,Winecrisp™,5,Apple
+183,"Winesap, Virginia",5,Apple
+184,Winter Banana,5,Apple
+185,Wolf River,5,Apple
+186,Yarlington Mill,5,Apple
+187,Yellow Transparent,5,Apple
+188,Zestar!®,5,Apple
+0,Bounty,5,Peach
+1,Carolina Belle,5,Peach
+2,Carolina Gold,5,Peach
+3,Challenger,5,Peach
+4,China Pearl,5,Peach
+5,Contender ,5,Peach
+6,Coralstar®,5,Peach
+7,Desiree®,5,Peach
+8,Eden,5,Peach
+9,Galactica,5,Peach
+10,Intrepid,5,Peach
+11,Norman,5,Peach
+12,PF 24-C Cold Hardy,5,Peach
+13,PF 28-007,5,Peach
+14,PF Big George,5,Peach
+15,PF Fat Lady,5,Peach
+16,PF Lucky 13,5,Peach
+17,Redhaven ,5,Peach
+18,Reliance ,5,Peach
+19,Sugar Giant,5,Peach
+20,Sugar May,5,Peach
+21,Veteran,5,Peach
+0,AU Rosa,5,Plum
+1,Bluebyrd,5,Plum
+2,Bubblegum,5,Plum
+3,Castleton,5,Plum
+4,Damson,5,Plum
+5,Empress,5,Plum
+6,Geneva Mirabelle™,5,Plum
+7,Gras Ameliorat,5,Plum
+8,Gras Romanesc,5,Plum
+9,Green Gage,5,Plum
+10,Kenmore ,5,Plum
+11,Lavina ,5,Plum
+12,Methley,5,Plum
+13,Nadia,5,Plum
+14,Obilinaja,5,Plum
+15,Oishi-Wase,5,Plum
+16,Rosy Gage™,5,Plum
+17,Santa Rosa,5,Plum
+18,Satsuma,5,Plum
+19,Shiro,5,Plum
+20,Vanier,5,Plum
+0,AC™ Harrow Crisp,5,Pear
+1,Anjou,5,Pear
+2,Aurora,5,Pear
+3,Bartlett,5,Pear
+4,Blake's Pride,5,Pear
+5,Butt,5,Pear
+6,Flemish Beauty,5,Pear
+7,Gelbmostler,5,Pear
+8,Gem,5,Pear
+9,Gin,5,Pear
+10,Harrow Delight,5,Pear
+11,Harvest Queen,5,Pear
+12,Hendre Huffcap,5,Pear
+13,Honeysweet,5,Pear
+14,Hosui,5,Pear
+15,Juicy Jewel™,5,Pear
+16,Kalle,5,Pear
+17,Magness,5,Pear
+18,Maxine,5,Pear
+19,Moonglow,5,Pear
+20,Niitaka,5,Pear
+21,Normännische,5,Pear
+22,Olympic,5,Pear
+23,Potomac,5,Pear
+24,Seckel,5,Pear
+25,Shenandoah,5,Pear
+26,Shinko,5,Pear
+27,Shinseiki,5,Pear
+28,Shinsui,5,Pear
+29,Summercrisp,5,Pear
+30,Winnal's Longdon,5,Pear
+31,Yellow Huffcap,5,Pear
+32,Yoinashi,5,Pear
+0,Eastern Glo,5,Nectarine
+1,Fantasia,5,Nectarine
+0,Balaton®,5,Cherry
+1,BlackGold®,5,Cherry
+2,BlackPearl®,5,Cherry
+3,BurgundyPearl®,5,Cherry
+4,Danube™,5,Cherry
+5,EbonyPearl®,5,Cherry
+6,Emperor Francis,5,Cherry
+7,Hudson,5,Cherry
+8,Jubileum,5,Cherry
+9,Kristin,5,Cherry
+10,Meteor,5,Cherry
+11,Montmorency,5,Cherry
+12,Regina™ York 57/201cv.,5,Cherry
+13,Stardust™,5,Cherry
+14,Surefire™,5,Cherry
+15,Sweetheart,5,Cherry
+16,WhiteGold®,5,Cherry
+0,AC™ Haroblush,5,Apricot
+1,AC™ Harostar,5,Apricot
+2,Harcot,5,Apricot
+3,Harlayne,5,Apricot
+4,Harogem,5,Apricot
+5,HW 460,5,Apricot
+6,Sugar Pearls™,5,Apricot
+0,Akane,6,Apple
+1,Alkmene,6,Apple
+2,Almata,6,Apple
+3,Ambrosia,6,Apple
+4,Amere de Berthencourt,6,Apple
+5,Anna,6,Apple
+6,Antietam Blush®,6,Apple
+7,Antonovka (Common),6,Apple
+8,Arkansas Black,6,Apple
+9,Ashmead's Kernel,6,Apple
+10,Baldwin,6,Apple
+11,Bedan,6,Apple
+12,Belle Fille,6,Apple
+13,Binet Rouge,6,Apple
+14,Black Oxford,6,Apple
+15,Blanquina,6,Apple
+16,Blondee™,6,Apple
+17,Blue Pearmain,6,Apple
+18,Bramley's Seedling,6,Apple
+19,Bramtot,6,Apple
+20,Brown Snout,6,Apple
+21,Brown's Apple,6,Apple
+22,Bulmer's Norman,6,Apple
+23,Burgundy,6,Apple
+24,Calville Blanc,6,Apple
+25,Campfield,6,Apple
+26,Centennial Crab,6,Apple
+27,Chenango Strawberry,6,Apple
+28,Chestnut Crab,6,Apple
+29,Chieftain,6,Apple
+30,Chisel Jersey,6,Apple
+31,Claygate Pearmain,6,Apple
+32,Coat Jersey,6,Apple
+33,Collaos,6,Apple
+34,Coloradona,6,Apple
+35,Cortland ,6,Apple
+36,Court Pendu Plat,6,Apple
+37,Cox's Orange Pippin,6,Apple
+38,CrimsonCrisp™ ,6,Apple
+39,Crimson® Topaz CV.,6,Apple
+40,Cristalina ,6,Apple
+41,Dabinett,6,Apple
+42,Dayton,6,Apple
+43,Dolgo Crab,6,Apple
+44,Domaines,6,Apple
+45,Duchess of Oldenburg,6,Apple
+46,Edelborsdorfer,6,Apple
+47,Egremont Russet,6,Apple
+48,Ellis Bitter,6,Apple
+49,Elstar,6,Apple
+50,Empire,6,Apple
+51,Enterprise,6,Apple
+52,Erwin Bauer,6,Apple
+53,Fameuse ,6,Apple
+54,Florina ,6,Apple
+55,Flower of Kent,6,Apple
+56,Fortune,6,Apple
+57,Franklin ,6,Apple
+58,Freedom,6,Apple
+59,Frequin Rouge,6,Apple
+60,Freyberg,6,Apple
+61,Frostbite™,6,Apple
+62,Fuji,6,Apple
+63,"Fuji, Beni Shogun",6,Apple
+64,Gala,6,Apple
+65,Galarina™ X-4982 CV.,6,Apple
+66,Geneva Crab,6,Apple
+67,Gilpin,6,Apple
+68,Ginger Gold,6,Apple
+69,Golden Hornet,6,Apple
+70,Golden Nugget,6,Apple
+71,Golden Russet,6,Apple
+72,GoldRush,6,Apple
+73,Granny Smith,6,Apple
+74,Gravenstein,6,Apple
+75,Grimes Golden,6,Apple
+76,Haralson,6,Apple
+77,Harrison,6,Apple
+78,Harry Masters Jersey,6,Apple
+79,Hawaii,6,Apple
+80,Herefordshire Redstreak,6,Apple
+81,Holstein Pippin,6,Apple
+82,Honeycrisp,6,Apple
+83,Hubbardston Nonsuch,6,Apple
+84,Hudson's Golden Gem,6,Apple
+85,Idared,6,Apple
+86,Initial,6,Apple
+87,Jim Double Pink,6,Apple
+88,Jonagold,6,Apple
+89,Jonalicious,6,Apple
+90,Jonathan,6,Apple
+91,Kandil Sinap,6,Apple
+92,Karmijn de Sonneville,6,Apple
+93,Keepsake,6,Apple
+94,Kermerrien,6,Apple
+95,Kerr,6,Apple
+96,Kidd's Orange Red,6,Apple
+97,King David,6,Apple
+98,King of Tompkins County,6,Apple
+99,Kingston Black,6,Apple
+100,Lady,6,Apple
+101,Laxton's Superb,6,Apple
+102,Liberty,6,Apple
+103,Macoun,6,Apple
+104,Major,6,Apple
+105,Margil,6,Apple
+106,Marialena,6,Apple
+107,McIntosh,6,Apple
+108,Medaille d'Or,6,Apple
+109,Melrose,6,Apple
+110,MN1980,6,Apple
+111,Mollie's Delicious,6,Apple
+112,Mother,6,Apple
+113,Murray,6,Apple
+114,Muscadet de Dieppe,6,Apple
+115,Muscat de Bernay,6,Apple
+116,Mutsu,6,Apple
+117,Nehou,6,Apple
+118,Newtown Pippin,6,Apple
+119,Noel de Champs,6,Apple
+120,Northern Spy,6,Apple
+121,Northland Crab,6,Apple
+122,Northwest Greening,6,Apple
+123,Nova Spy,6,Apple
+124,NY 35,6,Apple
+125,NY 414-1,6,Apple
+126,Opalescent,6,Apple
+127,Orleans Reinette,6,Apple
+128,Pepin Shafrannyi,6,Apple
+129,Piel de Sapa,6,Apple
+130,Pine Golden Pippin,6,Apple
+131,Pink Lady® Cripps Pink CV.,6,Apple
+132,Pink Pearl,6,Apple
+133,Pixie Crunch®,6,Apple
+134,Porter's Perfection,6,Apple
+135,Prairie Spy,6,Apple
+136,Pristine,6,Apple
+137,Puget Spice,6,Apple
+138,Raxao,6,Apple
+139,Razor Russet,6,Apple
+140,Redfield,6,Apple
+141,Redfree,6,Apple
+142,Reine des Pommes,6,Apple
+143,Reineta do Caravia,6,Apple
+144,Reinette Clochard,6,Apple
+145,Reinette Zabergau,6,Apple
+146,Repinaldo do Liebana,6,Apple
+147,Rhode Island Greening,6,Apple
+148,Ribston Pippin,6,Apple
+149,Robert's Crab,6,Apple
+150,Roxbury Russet,6,Apple
+151,Rubinette,6,Apple
+152,Saint-Martin,6,Apple
+153,Sangre de Toro,6,Apple
+154,Sansa,6,Apple
+155,Scarlett O'Hara,6,Apple
+156,Shizuka,6,Apple
+157,Sir Prize,6,Apple
+158,Slavyanka,6,Apple
+159,Smokehouse,6,Apple
+160,SnowSweet®,6,Apple
+161,Solarina,6,Apple
+162,Somerset Redstreak,6,Apple
+163,Spartan,6,Apple
+164,Spigold,6,Apple
+165,Spitzenburg Esopus ,6,Apple
+166,Splendour,6,Apple
+167,St. Edmund's Russet,6,Apple
+168,Stembridge Cluster,6,Apple
+169,Stoke Red,6,Apple
+170,Summer Rambo,6,Apple
+171,SunCrisp®,6,Apple
+172,Sundance™,6,Apple
+173,Sundowner®,6,Apple
+174,Suntan,6,Apple
+175,Surprise,6,Apple
+176,Sweet Coppin,6,Apple
+177,Sweet Sixteen,6,Apple
+178,Tom Putt,6,Apple
+179,Toringo Crabapple,6,Apple
+180,Transcendent Crab,6,Apple
+181,Tremlett's Bitter,6,Apple
+182,Virginia Crab,6,Apple
+183,Wagener,6,Apple
+184,Wealthy,6,Apple
+185,White Winter Pearmain,6,Apple
+186,Wickson Crab,6,Apple
+187,Williams' Pride,6,Apple
+188,Winecrisp™,6,Apple
+189,"Winesap, Virginia",6,Apple
+190,Winter Banana,6,Apple
+191,Wolf River,6,Apple
+192,Yarlington Mill,6,Apple
+193,Yellow Transparent,6,Apple
+194,Zestar!®,6,Apple
+0,Bounty,6,Peach
+1,Carolina Belle,6,Peach
+2,Carolina Gold,6,Peach
+3,Challenger,6,Peach
+4,China Pearl,6,Peach
+5,Contender ,6,Peach
+6,Coralstar®,6,Peach
+7,Desiree®,6,Peach
+8,Eden,6,Peach
+9,Galactica,6,Peach
+10,Intrepid,6,Peach
+11,Norman,6,Peach
+12,PF 24-C Cold Hardy,6,Peach
+13,PF 28-007,6,Peach
+14,PF Big George,6,Peach
+15,PF Fat Lady,6,Peach
+16,PF Lucky 13,6,Peach
+17,Redhaven ,6,Peach
+18,Reliance ,6,Peach
+19,Snow Giant,6,Peach
+20,Sugar Giant,6,Peach
+21,Sugar May,6,Peach
+22,Veteran,6,Peach
+0,AU Rosa,6,Plum
+1,Bluebyrd,6,Plum
+2,Bubblegum,6,Plum
+3,Castleton,6,Plum
+4,Damson,6,Plum
+5,Empress,6,Plum
+6,Geneva Mirabelle™,6,Plum
+7,Gras Ameliorat,6,Plum
+8,Gras Romanesc,6,Plum
+9,Green Gage,6,Plum
+10,Kenmore ,6,Plum
+11,Lavina ,6,Plum
+12,Methley,6,Plum
+13,Nadia,6,Plum
+14,Obilinaja,6,Plum
+15,Oishi-Wase,6,Plum
+16,Rosy Gage™,6,Plum
+17,Santa Rosa,6,Plum
+18,Satsuma,6,Plum
+19,Shiro,6,Plum
+20,Vanier,6,Plum
+0,AC™ Harrow Crisp,6,Pear
+1,Anjou,6,Pear
+2,Aurora,6,Pear
+3,Bartlett,6,Pear
+4,Blake's Pride,6,Pear
+5,Butt,6,Pear
+6,Flemish Beauty,6,Pear
+7,Gelbmostler,6,Pear
+8,Gem,6,Pear
+9,Gin,6,Pear
+10,Harrow Delight,6,Pear
+11,Harvest Queen,6,Pear
+12,Hendre Huffcap,6,Pear
+13,Honeysweet,6,Pear
+14,Hosui,6,Pear
+15,Juicy Jewel™,6,Pear
+16,Kalle,6,Pear
+17,Magness,6,Pear
+18,Maxine,6,Pear
+19,Moonglow,6,Pear
+20,Niitaka,6,Pear
+21,Normännische,6,Pear
+22,Olympic,6,Pear
+23,Potomac,6,Pear
+24,Seckel,6,Pear
+25,Shenandoah,6,Pear
+26,Shinko,6,Pear
+27,Shinseiki,6,Pear
+28,Shinsui,6,Pear
+29,Summercrisp,6,Pear
+30,Winnal's Longdon,6,Pear
+31,Yellow Huffcap,6,Pear
+32,Yoinashi,6,Pear
+0,Eastern Glo,6,Nectarine
+1,Fantasia,6,Nectarine
+0,Balaton®,6,Cherry
+1,BlackGold®,6,Cherry
+2,BlackPearl®,6,Cherry
+3,BurgundyPearl®,6,Cherry
+4,Danube™,6,Cherry
+5,EbonyPearl®,6,Cherry
+6,Emperor Francis,6,Cherry
+7,Hudson,6,Cherry
+8,Jubileum,6,Cherry
+9,Kristin,6,Cherry
+10,Meteor,6,Cherry
+11,Montmorency,6,Cherry
+12,Regina™ York 57/201cv.,6,Cherry
+13,Stardust™,6,Cherry
+14,Surefire™,6,Cherry
+15,Sweetheart,6,Cherry
+16,WhiteGold®,6,Cherry
+0,AC™ Haroblush,6,Apricot
+1,AC™ Harostar,6,Apricot
+2,Harcot,6,Apricot
+3,Harlayne,6,Apricot
+4,Harogem,6,Apricot
+5,HW 460,6,Apricot
+6,Sugar Pearls™,6,Apricot
+0,Akane,7,Apple
+1,Alkmene,7,Apple
+2,Ambrosia,7,Apple
+3,Amere de Berthencourt,7,Apple
+4,Anna,7,Apple
+5,Antietam Blush®,7,Apple
+6,Antonovka (Common),7,Apple
+7,Arkansas Black,7,Apple
+8,Ashmead's Kernel,7,Apple
+9,Baldwin,7,Apple
+10,Bedan,7,Apple
+11,Belle Fille,7,Apple
+12,Binet Rouge,7,Apple
+13,Blanquina,7,Apple
+14,Blondee™,7,Apple
+15,Blue Pearmain,7,Apple
+16,Bramley's Seedling,7,Apple
+17,Bramtot,7,Apple
+18,Brown Snout,7,Apple
+19,Brown's Apple,7,Apple
+20,Bulmer's Norman,7,Apple
+21,Burgundy,7,Apple
+22,Calville Blanc,7,Apple
+23,Campfield,7,Apple
+24,Centennial Crab,7,Apple
+25,Chenango Strawberry,7,Apple
+26,Chestnut Crab,7,Apple
+27,Chieftain,7,Apple
+28,Chisel Jersey,7,Apple
+29,Claygate Pearmain,7,Apple
+30,Coat Jersey,7,Apple
+31,Collaos,7,Apple
+32,Coloradona,7,Apple
+33,Cortland ,7,Apple
+34,Court Pendu Plat,7,Apple
+35,Cox's Orange Pippin,7,Apple
+36,CrimsonCrisp™ ,7,Apple
+37,Crimson® Topaz CV.,7,Apple
+38,Cristalina ,7,Apple
+39,Dabinett,7,Apple
+40,Dayton,7,Apple
+41,Dolgo Crab,7,Apple
+42,Domaines,7,Apple
+43,Duchess of Oldenburg,7,Apple
+44,Edelborsdorfer,7,Apple
+45,Egremont Russet,7,Apple
+46,Elstar,7,Apple
+47,Empire,7,Apple
+48,Enterprise,7,Apple
+49,Erwin Bauer,7,Apple
+50,Fameuse ,7,Apple
+51,Florina ,7,Apple
+52,Flower of Kent,7,Apple
+53,Fortune,7,Apple
+54,Franklin ,7,Apple
+55,Freedom,7,Apple
+56,Frequin Rouge,7,Apple
+57,Freyberg,7,Apple
+58,Frostbite™,7,Apple
+59,Fuji,7,Apple
+60,"Fuji, Beni Shogun",7,Apple
+61,Gala,7,Apple
+62,Galarina™ X-4982 CV.,7,Apple
+63,Geneva Crab,7,Apple
+64,Gilpin,7,Apple
+65,Ginger Gold,7,Apple
+66,Golden Hornet,7,Apple
+67,Golden Nugget,7,Apple
+68,GoldRush,7,Apple
+69,Granny Smith,7,Apple
+70,Gravenstein,7,Apple
+71,Grimes Golden,7,Apple
+72,Haralson,7,Apple
+73,Harrison,7,Apple
+74,Harry Masters Jersey,7,Apple
+75,Hawaii,7,Apple
+76,Herefordshire Redstreak,7,Apple
+77,Holstein Pippin,7,Apple
+78,Honeycrisp,7,Apple
+79,Hubbardston Nonsuch,7,Apple
+80,Hudson's Golden Gem,7,Apple
+81,Idared,7,Apple
+82,Initial,7,Apple
+83,Jim Double Pink,7,Apple
+84,Jonagold,7,Apple
+85,Jonalicious,7,Apple
+86,Jonathan,7,Apple
+87,Kandil Sinap,7,Apple
+88,Karmijn de Sonneville,7,Apple
+89,Keepsake,7,Apple
+90,Kermerrien,7,Apple
+91,Kerr,7,Apple
+92,Kidd's Orange Red,7,Apple
+93,King David,7,Apple
+94,King of Tompkins County,7,Apple
+95,Kingston Black,7,Apple
+96,Lady,7,Apple
+97,Laxton's Superb,7,Apple
+98,Liberty,7,Apple
+99,Macoun,7,Apple
+100,Margil,7,Apple
+101,Marialena,7,Apple
+102,Medaille d'Or,7,Apple
+103,Melrose,7,Apple
+104,MN1980,7,Apple
+105,Mollie's Delicious,7,Apple
+106,Mother,7,Apple
+107,Murray,7,Apple
+108,Muscadet de Dieppe,7,Apple
+109,Muscat de Bernay,7,Apple
+110,Mutsu,7,Apple
+111,Nehou,7,Apple
+112,Newtown Pippin,7,Apple
+113,Noel de Champs,7,Apple
+114,Northern Spy,7,Apple
+115,Northland Crab,7,Apple
+116,Northwest Greening,7,Apple
+117,Nova Spy,7,Apple
+118,NY 35,7,Apple
+119,NY 414-1,7,Apple
+120,Opalescent,7,Apple
+121,Orleans Reinette,7,Apple
+122,Pepin Shafrannyi,7,Apple
+123,Piel de Sapa,7,Apple
+124,Pine Golden Pippin,7,Apple
+125,Pink Lady® Cripps Pink CV.,7,Apple
+126,Pink Pearl,7,Apple
+127,Pixie Crunch®,7,Apple
+128,Porter's Perfection,7,Apple
+129,Prairie Spy,7,Apple
+130,Pristine,7,Apple
+131,Puget Spice,7,Apple
+132,Raxao,7,Apple
+133,Razor Russet,7,Apple
+134,Redfield,7,Apple
+135,Redfree,7,Apple
+136,Reine des Pommes,7,Apple
+137,Reineta do Caravia,7,Apple
+138,Reinette Clochard,7,Apple
+139,Reinette Zabergau,7,Apple
+140,Repinaldo do Liebana,7,Apple
+141,Rhode Island Greening,7,Apple
+142,Ribston Pippin,7,Apple
+143,Robert's Crab,7,Apple
+144,Roxbury Russet,7,Apple
+145,Rubinette,7,Apple
+146,Saint-Martin,7,Apple
+147,Sangre de Toro,7,Apple
+148,Sansa,7,Apple
+149,Scarlett O'Hara,7,Apple
+150,Shizuka,7,Apple
+151,Sir Prize,7,Apple
+152,Slavyanka,7,Apple
+153,Smokehouse,7,Apple
+154,SnowSweet®,7,Apple
+155,Solarina,7,Apple
+156,Somerset Redstreak,7,Apple
+157,Spartan,7,Apple
+158,Spigold,7,Apple
+159,Spitzenburg Esopus ,7,Apple
+160,Splendour,7,Apple
+161,St. Edmund's Russet,7,Apple
+162,Stembridge Cluster,7,Apple
+163,Stoke Red,7,Apple
+164,Summer Rambo,7,Apple
+165,SunCrisp®,7,Apple
+166,Sundance™,7,Apple
+167,Sundowner®,7,Apple
+168,Suntan,7,Apple
+169,Surprise,7,Apple
+170,Sweet Coppin,7,Apple
+171,Sweet Sixteen,7,Apple
+172,Tom Putt,7,Apple
+173,Toringo Crabapple,7,Apple
+174,Transcendent Crab,7,Apple
+175,Tremlett's Bitter,7,Apple
+176,Virginia Crab,7,Apple
+177,Wagener,7,Apple
+178,Wealthy,7,Apple
+179,White Winter Pearmain,7,Apple
+180,Wickson Crab,7,Apple
+181,Williams' Pride,7,Apple
+182,Winecrisp™,7,Apple
+183,"Winesap, Virginia",7,Apple
+184,Winter Banana,7,Apple
+185,Wolf River,7,Apple
+186,Yarlington Mill,7,Apple
+187,Yellow Transparent,7,Apple
+188,Zestar!®,7,Apple
+0,Bounty,7,Peach
+1,Carolina Belle,7,Peach
+2,Carolina Gold,7,Peach
+3,Challenger,7,Peach
+4,China Pearl,7,Peach
+5,Contender ,7,Peach
+6,Coralstar®,7,Peach
+7,Desiree®,7,Peach
+8,Eden,7,Peach
+9,Galactica,7,Peach
+10,Intrepid,7,Peach
+11,Norman,7,Peach
+12,PF 24-C Cold Hardy,7,Peach
+13,PF 28-007,7,Peach
+14,PF Big George,7,Peach
+15,PF Fat Lady,7,Peach
+16,PF Lucky 13,7,Peach
+17,Redhaven ,7,Peach
+18,Reliance ,7,Peach
+19,Snow Giant,7,Peach
+20,Sugar Giant,7,Peach
+21,Sugar May,7,Peach
+22,Veteran,7,Peach
+0,AU Rosa,7,Plum
+1,Bluebyrd,7,Plum
+2,Bubblegum,7,Plum
+3,Castleton,7,Plum
+4,Damson,7,Plum
+5,Empress,7,Plum
+6,Geneva Mirabelle™,7,Plum
+7,Gras Ameliorat,7,Plum
+8,Gras Romanesc,7,Plum
+9,Green Gage,7,Plum
+10,Kenmore ,7,Plum
+11,Lavina ,7,Plum
+12,Methley,7,Plum
+13,Nadia,7,Plum
+14,Obilinaja,7,Plum
+15,Oishi-Wase,7,Plum
+16,Rosy Gage™,7,Plum
+17,Santa Rosa,7,Plum
+18,Satsuma,7,Plum
+19,Shiro,7,Plum
+20,Vanier,7,Plum
+0,AC™ Harrow Crisp,7,Pear
+1,Anjou,7,Pear
+2,Aurora,7,Pear
+3,Bartlett,7,Pear
+4,Blake's Pride,7,Pear
+5,Butt,7,Pear
+6,Flemish Beauty,7,Pear
+7,Gelbmostler,7,Pear
+8,Gem,7,Pear
+9,Gin,7,Pear
+10,Harrow Delight,7,Pear
+11,Harvest Queen,7,Pear
+12,Hendre Huffcap,7,Pear
+13,Honeysweet,7,Pear
+14,Hosui,7,Pear
+15,Juicy Jewel™,7,Pear
+16,Kalle,7,Pear
+17,Magness,7,Pear
+18,Maxine,7,Pear
+19,Moonglow,7,Pear
+20,Niitaka,7,Pear
+21,Normännische,7,Pear
+22,Olympic,7,Pear
+23,Potomac,7,Pear
+24,Seckel,7,Pear
+25,Shenandoah,7,Pear
+26,Shinko,7,Pear
+27,Shinseiki,7,Pear
+28,Shinsui,7,Pear
+29,Summercrisp,7,Pear
+30,Winnal's Longdon,7,Pear
+31,Yellow Huffcap,7,Pear
+32,Yoinashi,7,Pear
+0,Eastern Glo,7,Nectarine
+1,Fantasia,7,Nectarine
+0,Balaton®,7,Cherry
+1,BlackGold®,7,Cherry
+2,BlackPearl®,7,Cherry
+3,BurgundyPearl®,7,Cherry
+4,Danube™,7,Cherry
+5,EbonyPearl®,7,Cherry
+6,Emperor Francis,7,Cherry
+7,Hudson,7,Cherry
+8,Jubileum,7,Cherry
+9,Kristin,7,Cherry
+10,Meteor,7,Cherry
+11,Montmorency,7,Cherry
+12,Regina™ York 57/201cv.,7,Cherry
+13,Stardust™,7,Cherry
+14,Surefire™,7,Cherry
+15,Sweetheart,7,Cherry
+16,WhiteGold®,7,Cherry
+0,AC™ Haroblush,7,Apricot
+1,AC™ Harostar,7,Apricot
+2,Harcot,7,Apricot
+3,Harlayne,7,Apricot
+4,Harogem,7,Apricot
+5,HW 460,7,Apricot
+6,Sugar Pearls™,7,Apricot
+0,Akane,8,Apple
+1,Alkmene,8,Apple
+2,Ambrosia,8,Apple
+3,Amere de Berthencourt,8,Apple
+4,Anna,8,Apple
+5,Antietam Blush®,8,Apple
+6,Antonovka (Common),8,Apple
+7,Arkansas Black,8,Apple
+8,Ashmead's Kernel,8,Apple
+9,Bedan,8,Apple
+10,Binet Rouge,8,Apple
+11,Blondee™,8,Apple
+12,Blue Pearmain,8,Apple
+13,Bramtot,8,Apple
+14,Brown Snout,8,Apple
+15,Brown's Apple,8,Apple
+16,Bulmer's Norman,8,Apple
+17,Burgundy,8,Apple
+18,Calville Blanc,8,Apple
+19,Campfield,8,Apple
+20,Centennial Crab,8,Apple
+21,Chenango Strawberry,8,Apple
+22,Chestnut Crab,8,Apple
+23,Chieftain,8,Apple
+24,Chisel Jersey,8,Apple
+25,Claygate Pearmain,8,Apple
+26,Cortland ,8,Apple
+27,Court Pendu Plat,8,Apple
+28,CrimsonCrisp™ ,8,Apple
+29,Crimson® Topaz CV.,8,Apple
+30,Dabinett,8,Apple
+31,Dayton,8,Apple
+32,Dolgo Crab,8,Apple
+33,Domaines,8,Apple
+34,Duchess of Oldenburg,8,Apple
+35,Egremont Russet,8,Apple
+36,Elstar,8,Apple
+37,Erwin Bauer,8,Apple
+38,Fameuse ,8,Apple
+39,Florina ,8,Apple
+40,Flower of Kent,8,Apple
+41,Fortune,8,Apple
+42,Frequin Rouge,8,Apple
+43,Freyberg,8,Apple
+44,Fuji,8,Apple
+45,"Fuji, Beni Shogun",8,Apple
+46,Gala,8,Apple
+47,Galarina™ X-4982 CV.,8,Apple
+48,Gilpin,8,Apple
+49,Ginger Gold,8,Apple
+50,Golden Hornet,8,Apple
+51,Golden Nugget,8,Apple
+52,GoldRush,8,Apple
+53,Granny Smith,8,Apple
+54,Gravenstein,8,Apple
+55,Grimes Golden,8,Apple
+56,Haralson,8,Apple
+57,Harrison,8,Apple
+58,Harry Masters Jersey,8,Apple
+59,Hawaii,8,Apple
+60,Herefordshire Redstreak,8,Apple
+61,Holstein Pippin,8,Apple
+62,Hubbardston Nonsuch,8,Apple
+63,Hudson's Golden Gem,8,Apple
+64,Initial,8,Apple
+65,Jim Double Pink,8,Apple
+66,Jonagold,8,Apple
+67,Jonalicious,8,Apple
+68,Jonathan,8,Apple
+69,Kandil Sinap,8,Apple
+70,Karmijn de Sonneville,8,Apple
+71,Keepsake,8,Apple
+72,Kermerrien,8,Apple
+73,Kerr,8,Apple
+74,Kidd's Orange Red,8,Apple
+75,King David,8,Apple
+76,King of Tompkins County,8,Apple
+77,Kingston Black,8,Apple
+78,Lady,8,Apple
+79,Laxton's Superb,8,Apple
+80,Liberty,8,Apple
+81,Margil,8,Apple
+82,Marialena,8,Apple
+83,Medaille d'Or,8,Apple
+84,Melrose,8,Apple
+85,MN1980,8,Apple
+86,Mollie's Delicious,8,Apple
+87,Mother,8,Apple
+88,Murray,8,Apple
+89,Muscadet de Dieppe,8,Apple
+90,Muscat de Bernay,8,Apple
+91,Mutsu,8,Apple
+92,Nehou,8,Apple
+93,Newtown Pippin,8,Apple
+94,Noel de Champs,8,Apple
+95,Northwest Greening,8,Apple
+96,Orleans Reinette,8,Apple
+97,Pink Lady® Cripps Pink CV.,8,Apple
+98,Pink Pearl,8,Apple
+99,Pixie Crunch®,8,Apple
+100,Prairie Spy,8,Apple
+101,Pristine,8,Apple
+102,Puget Spice,8,Apple
+103,Razor Russet,8,Apple
+104,Redfree,8,Apple
+105,Rubinette,8,Apple
+106,Sansa,8,Apple
+107,Shizuka,8,Apple
+108,Smokehouse,8,Apple
+109,Spartan,8,Apple
+110,Summer Rambo,8,Apple
+111,SunCrisp®,8,Apple
+112,Sundance™,8,Apple
+113,Sundowner®,8,Apple
+114,Toringo Crabapple,8,Apple
+115,Transcendent Crab,8,Apple
+116,Virginia Crab,8,Apple
+117,Wagener,8,Apple
+118,Wealthy,8,Apple
+119,White Winter Pearmain,8,Apple
+120,Wickson Crab,8,Apple
+121,Winecrisp™,8,Apple
+122,"Winesap, Virginia",8,Apple
+123,Winter Banana,8,Apple
+124,Wolf River,8,Apple
+125,Yellow Transparent,8,Apple
+126,Zestar!®,8,Apple
+0,Bounty,8,Peach
+1,Carolina Belle,8,Peach
+2,Carolina Gold,8,Peach
+3,Challenger,8,Peach
+4,China Pearl,8,Peach
+5,Contender ,8,Peach
+6,Coralstar®,8,Peach
+7,Desiree®,8,Peach
+8,Eden,8,Peach
+9,Galactica,8,Peach
+10,Intrepid,8,Peach
+11,Norman,8,Peach
+12,PF 24-C Cold Hardy,8,Peach
+13,PF 28-007,8,Peach
+14,PF Big George,8,Peach
+15,PF Fat Lady,8,Peach
+16,PF Lucky 13,8,Peach
+17,Redhaven ,8,Peach
+18,Reliance ,8,Peach
+19,Snow Giant,8,Peach
+20,Sugar Giant,8,Peach
+21,Sugar May,8,Peach
+22,Veteran,8,Peach
+0,AU Rosa,8,Plum
+1,Bluebyrd,8,Plum
+2,Bubblegum,8,Plum
+3,Castleton,8,Plum
+4,Damson,8,Plum
+5,Geneva Mirabelle™,8,Plum
+6,Gras Ameliorat,8,Plum
+7,Gras Romanesc,8,Plum
+8,Green Gage,8,Plum
+9,Kenmore ,8,Plum
+10,Lavina ,8,Plum
+11,Methley,8,Plum
+12,Nadia,8,Plum
+13,Obilinaja,8,Plum
+14,Oishi-Wase,8,Plum
+15,Rosy Gage™,8,Plum
+16,Santa Rosa,8,Plum
+17,Satsuma,8,Plum
+18,Shiro,8,Plum
+19,Vanier,8,Plum
+0,AC™ Harrow Crisp,8,Pear
+1,Anjou,8,Pear
+2,Aurora,8,Pear
+3,Bartlett,8,Pear
+4,Blake's Pride,8,Pear
+5,Butt,8,Pear
+6,Flemish Beauty,8,Pear
+7,Gelbmostler,8,Pear
+8,Gem,8,Pear
+9,Harrow Delight,8,Pear
+10,Harvest Queen,8,Pear
+11,Honeysweet,8,Pear
+12,Hosui,8,Pear
+13,Kalle,8,Pear
+14,Magness,8,Pear
+15,Maxine,8,Pear
+16,Moonglow,8,Pear
+17,Niitaka,8,Pear
+18,Olympic,8,Pear
+19,Potomac,8,Pear
+20,Seckel,8,Pear
+21,Shenandoah,8,Pear
+22,Shinko,8,Pear
+23,Shinseiki,8,Pear
+24,Shinsui,8,Pear
+25,Summercrisp,8,Pear
+26,Yoinashi,8,Pear
+0,Eastern Glo,8,Nectarine
+1,Fantasia,8,Nectarine
+0,Balaton®,8,Cherry
+1,BlackGold®,8,Cherry
+2,BlackPearl®,8,Cherry
+3,BurgundyPearl®,8,Cherry
+4,Danube™,8,Cherry
+5,EbonyPearl®,8,Cherry
+6,Hudson,8,Cherry
+7,Jubileum,8,Cherry
+8,Meteor,8,Cherry
+9,Montmorency,8,Cherry
+10,Regina™ York 57/201cv.,8,Cherry
+11,Stardust™,8,Cherry
+12,Surefire™,8,Cherry
+13,Sweetheart,8,Cherry
+0,AC™ Haroblush,8,Apricot
+1,AC™ Harostar,8,Apricot
+2,Harcot,8,Apricot
+3,Harlayne,8,Apricot
+4,Harogem,8,Apricot
+5,HW 460,8,Apricot
+6,Sugar Pearls™,8,Apricot
+0,Ambrosia,9,Apple
+1,Initial,9,Apple
+2,Jim Double Pink,9,Apple
+3,Rubinette,9,Apple
+0,Bounty,9,Peach
+1,Challenger,9,Peach
+2,Galactica,9,Peach
+3,Norman,9,Peach
+4,Snow Giant,9,Peach
+5,Sugar Giant,9,Peach
+6,Sugar May,9,Peach
+0,Fantasia,9,Nectarine
+0,Hudson,9,Cherry
