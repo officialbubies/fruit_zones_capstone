@@ -97,7 +97,9 @@ Notebooks:
     
 Presentation:
 
-    The presentation can be found in the 'presentation' folder of the repo and contains a Microsoft Powerpoint version, as well as a LibreOffice Impress filetype, and PDF version of the presentation.
+    The presentation can be found in the 'presentation' folder of the repo and contains a 
+    Microsoft Powerpoint version, as well as a LibreOffice Impress filetype, and PDF version 
+    of the presentation.
         
     It also contains (talkingPoints.md) a rough speaking script to go with the presentation.
     
