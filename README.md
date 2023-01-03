@@ -18,21 +18,21 @@ By looking at plant hardiness zones and fruit tree varieties that can be grown i
 Using the interactive folium map we can select to view hardiness zones and areas of low income and access, as well as view a list of fruit tree types that can be grown in those regions.
 
 Python Libraries:
-Webscraping and cleaning -
-    - requests
-    - BeatifulSoup (from bs4)
-    - pandas
+    Webscraping and cleaning:
+        - requests
+        - BeatifulSoup (from bs4)
+        - pandas
 
-Plotting -
-    - shapely (geometries)
-    - geopandas
-    - matplotlib (pyplot)
-    - folium (MarkerCluster, IFrame, Map, FeatureGroup,       
-    Marker, LayerControl, Popup)
-    - geoplot (crs)
-    - mapclassify
-    - plotly
-    - json
+    Plotting:
+        - shapely (geometries)
+        - geopandas
+        - matplotlib (pyplot)
+        - folium (MarkerCluster, IFrame, Map, FeatureGroup,       
+        Marker, LayerControl, Popup)
+        - geoplot (crs)
+        - mapclassify
+        - plotly
+        - json
 
 Data Sources:
 
@@ -87,7 +87,7 @@ Notebooks:
             - Stylizing of graphs
 
     5. state_edu_plotly.ipynb:
-    
+
             - Create geodataframe using Regional and Educational Attainment data.
             - Choropleths using Plotly
     
