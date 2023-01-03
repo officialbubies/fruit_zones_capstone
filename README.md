@@ -103,5 +103,10 @@ Presentation:
         
     It also contains (talkingPoints.md) a rough speaking script to go with the presentation.
     
+map_html:
 
+    The map_html folder contains the Folium map generated in the 'break_out.ipynb' notebook. 
+    Being that it is a very large HTML file (~26mb), it can not be automatically loaded within
+    GitHub. To view the interactive map it is required to download it and open it locally from 
+    your browser.
 
