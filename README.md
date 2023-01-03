@@ -59,10 +59,12 @@ Data Sources:
 
 Notebooks:
 
-    1. cummins_scrape-v3.ipynb - 
+    1. cummins_scrape-v3.ipynb:
+
             - Script for scraping Cummins Nursery fruit tree data and saving to CSV.
     
-    2. break_out.ipynb - 
+    2. break_out.ipynb:
+
             - Load, clean, explore fruit tree data.
             - Load US map geodata and Hardiness Zones geodata
             - Create and transform datasets for plotting
@@ -72,17 +74,20 @@ Notebooks:
                 - folium
                 - geoplot
             
-    3. intake_freq_scrape.ipynb - 
+    3. intake_freq_scrape.ipynb:
+
             - Script to scrape table for fruit consumption data and save to CSV.
 
-    4. health_and_intake.ipynb - 
+    4. health_and_intake.ipynb:
+
             - Load intake CSV, explore and clean
             - Create geodataframe for visual analysis
             - Regional analysis using States geodata and barplots and choropleths (matplotlib)    
             - Load education and obesity datasets, transform, visualize using barplots.
             - Stylizing of graphs
 
-    5. state_edu_plotly.ipynb - 
+    5. state_edu_plotly.ipynb:
+    
             - Create geodataframe using Regional and Educational Attainment data.
             - Choropleths using Plotly
     
