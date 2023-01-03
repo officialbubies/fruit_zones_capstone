@@ -1,14 +1,17 @@
 # fruit_zones_capstone
 
 Overview:
+
 This project was inspired by the Healthy People 2030 initiatives created by the US Dpeartment of Health and Human Services and the Office of Disease Prevention and Health Promotion. 
 
-* I am not affiliated with, or employed by either of these entities.
+    * I am not affiliated with, or employed by either of these entities.
 
 Main:
+
 Many people in the United States don’t eat a healthy diet. To reduce the risk for chronic diseases and improve overall health, it is recommended to eat healthier foods like whole fruit. 
 
 Goals:
+
 The goal of this project is to provide regional analysis of obesity and consumption behaviors along with optimal fruit tree planting zones. By combining this data we can gain insight as to which areas and demographics would benefit most from localized fruit growth. 
 
 After regional analysis has been done to determine high priority regions and demographics for implementing health initiatives, considering what grows where is the next thing to observe and record. 
