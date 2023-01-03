@@ -18,6 +18,7 @@ By looking at plant hardiness zones and fruit tree varieties that can be grown i
 Using the interactive folium map we can select to view hardiness zones and areas of low income and access, as well as view a list of fruit tree types that can be grown in those regions.
 
 Python Libraries:
+    
     Webscraping and cleaning:
         - requests
         - BeatifulSoup (from bs4)
