@@ -2,7 +2,7 @@
 
 Overview:
 
-This project was inspired by the Healthy People 2030 initiatives created by the US Dpeartment of Health and Human Services and the Office of Disease Prevention and Health Promotion. 
+This project was inspired by the Healthy People 2030 initiatives created by the US Department of Health and Human Services and the Office of Disease Prevention and Health Promotion. 
 
     * I am not affiliated with, or employed by either of these entities.
 
